@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090F,50:7F1D1D,100:EF4444&text=DAVID%20S.%20ABDELMESEH&fontColor=FFFFFF&fontSize=43&fontAlignY=45&desc=IT%20SUPPORT%20%7C%20NETWORKING%20%7C%20ASPIRING%20NETWORK%20ADMINISTRATOR&descSize=12&descAlignY=65&animation=fadeIn" width="100%" alt="David S. Abdelmeseh profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=280&color=0:09090F,40:7F1D1D,100:EF4444&text=DAVID%20S.%20ABDELMESEH&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=IT%20SUPPORT%20%7C%20NETWORKING%20%7C%20ASPIRING%20NETWORK%20ADMINISTRATOR&descSize=15&descAlignY=58&animation=twinkling&stroke=FFFFFF&strokeWidth=1" width="100%" alt="David S. Abdelmeseh profile banner"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=IT+Support+%26+Troubleshooting;Computer+Networking+Enthusiast;Learning+TCP%2FIP%2C+DNS+%26+DHCP;Building+Practical+Networking+Skills" alt="Typing animation"/>
 
@@ -179,5 +179,7 @@ I'm always happy to connect with people interested in IT, networking, and techno
 <br/><br/>
 
 *"Learning every day. Building knowledge. Connecting the world, one network at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:EF4444,60:7F1D1D,100:09090F" width="100%" alt="Footer wave"/>
 
 </div>
