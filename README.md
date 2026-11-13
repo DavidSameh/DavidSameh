@@ -81,6 +81,29 @@
 - Using Windows environment and built-in troubleshooting tools
 - Using GitHub to organize and share learning resources
 
+### 📖 Previously Learned
+
+I also studied the following earlier in my journey. These are not my current focus, but I have a basic background in them.
+
+**💻 Programming Languages**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=dart,cs,cpp&theme=dark" alt="Dart, C#, and C++"/>
+</div>
+
+**🔥 Backend, Cloud & Database**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=firebase,dotnet&theme=dark" alt="Firebase and .NET"/>
+<img src="https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+</div>
+
+**🧰 Tools & Environment**
+
+<div align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, Android Studio, and Figma"/>
+</div>
+
 ---
 
 ## 🔥 IT Services & Areas of Interest
