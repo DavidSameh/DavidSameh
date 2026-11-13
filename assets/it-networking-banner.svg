@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">IT Support and Networking</title>
+<desc id="desc">A modern illustration of connected computers, cloud services, networking, and IT support.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07152d"/><stop offset="1" stop-color="#123c63"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+<g opacity=".15" stroke="#9bdcff"><path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M100 0V360M200 0V360M300 0V360M900 0V360M1000 0V360M1100 0V360"/></g>
+<circle cx="1000" cy="170" r="132" fill="#1d4ed8" opacity=".12"/>
+<g font-family="Arial, Helvetica, sans-serif" fill="#fff">
+ <text x="76" y="112" font-size="22" letter-spacing="5" fill="#7dd3fc">WELCOME TO MY GITHUB</text>
+ <text x="72" y="178" font-size="48" font-weight="700">IT SUPPORT</text>
+ <text x="72" y="231" font-size="43" font-weight="700" fill="#7dd3fc">&amp; NETWORKING</text>
+ <text x="76" y="278" font-size="19" fill="#cbd5e1">Connecting systems • Solving problems • Always learning</text>
+</g>
+<g stroke="url(#accent)" stroke-width="4" fill="none" filter="url(#glow)" stroke-linecap="round">
+ <path d="M820 178L930 95L1045 178L930 265Z"/><path d="M930 95V265M820 178H1045"/>
+ <path d="M930 178L1090 92M930 178L1090 270"/>
+</g>
+<g fill="#0b2442" stroke="#7dd3fc" stroke-width="3">
+ <rect x="882" y="48" width="96" height="58" rx="9"/><rect x="775" y="149" width="92" height="58" rx="9"/>
+ <rect x="1000" y="149" width="92" height="58" rx="9"/><rect x="882" y="254" width="96" height="58" rx="9"/>
+</g>
+<g fill="#7dd3fc">
+ <circle cx="930" cy="77" r="5"/><circle cx="930" cy="88" r="3"/><circle cx="821" cy="178" r="5"/>
+ <circle cx="1046" cy="178" r="5"/><circle cx="930" cy="283" r="5"/>
+</g>
+<g stroke="#7dd3fc" stroke-width="3" fill="none" stroke-linecap="round">
+ <path d="M907 174h28m-14-14v28M1027 174h38m-19-12v24M909 75h42m-21-12v24M907 282h46"/>
+</g>
+<g fill="#cbd5e1" font-family="Arial" font-size="12" text-anchor="middle">
+ <text x="930" y="123">CLOUD</text><text x="821" y="222">CLIENT</text><text x="1046" y="222">SERVER</text><text x="930" y="329">NETWORK</text>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t">
+<title id="t">IT Services: Support, Networking, Infrastructure and Security</title>
+<rect width="1200" height="260" rx="22" fill="#0b172a"/>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+<rect x="35" y="35" width="230" height="190" rx="18" fill="#122b49" stroke="#2563eb" stroke-width="2"/>
+<text x="150" y="105" font-size="42">🛠</text>
+<text x="150" y="151" font-size="19" font-weight="700" fill="#7dd3fc">IT SUPPORT</text>
+<text x="150" y="181" font-size="12" fill="#dbeafe">Troubleshooting & assistance</text>
+<rect x="335" y="35" width="230" height="190" rx="18" fill="#122b49" stroke="#2563eb" stroke-width="2"/>
+<text x="450" y="105" font-size="42">🌐</text>
+<text x="450" y="151" font-size="19" font-weight="700" fill="#7dd3fc">NETWORKING</text>
+<text x="450" y="181" font-size="12" fill="#dbeafe">LAN • WAN • TCP/IP</text>
+<rect x="635" y="35" width="230" height="190" rx="18" fill="#122b49" stroke="#2563eb" stroke-width="2"/>
+<text x="750" y="105" font-size="42">🖧</text>
+<text x="750" y="151" font-size="19" font-weight="700" fill="#7dd3fc">INFRASTRUCTURE</text>
+<text x="750" y="181" font-size="12" fill="#dbeafe">Routers • Switches • Servers</text>
+<rect x="935" y="35" width="230" height="190" rx="18" fill="#122b49" stroke="#2563eb" stroke-width="2"/>
+<text x="1050" y="105" font-size="42">🔒</text>
+<text x="1050" y="151" font-size="19" font-weight="700" fill="#7dd3fc">SECURITY</text>
+<text x="1050" y="181" font-size="12" fill="#dbeafe">Fundamental security concepts</text>
+</g></svg>
