@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090F,50:172554,100:06B6D4&text=DAVID%20S.%20ABDELMESEH&fontColor=FFFFFF&fontSize=43&fontAlignY=45&desc=IT%20SUPPORT%20%7C%20NETWORKING%20%7C%20ASPIRING%20NETWORK%20ADMINISTRATOR&descSize=12&descAlignY=65&animation=fadeIn" width="100%" alt="David S. Abdelmeseh profile banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090F,50:7F1D1D,100:EF4444&text=DAVID%20S.%20ABDELMESEH&fontColor=FFFFFF&fontSize=43&fontAlignY=45&desc=IT%20SUPPORT%20%7C%20NETWORKING%20%7C%20ASPIRING%20NETWORK%20ADMINISTRATOR&descSize=12&descAlignY=65&animation=fadeIn" width="100%" alt="David S. Abdelmeseh profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=IT+Support+%26+Troubleshooting;Computer+Networking+Enthusiast;Learning+TCP%2FIP%2C+DNS+%26+DHCP;Building+Practical+Networking+Skills" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=IT+Support+%26+Troubleshooting;Computer+Networking+Enthusiast;Learning+TCP%2FIP%2C+DNS+%26+DHCP;Building+Practical+Networking+Skills" alt="Typing animation"/>
 
 <br/><br/>
 
@@ -88,7 +88,7 @@ I also studied the following earlier in my journey. These are not my current foc
 **💻 Programming Languages**
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=dart,cs,cpp&theme=dark" alt="Dart, C#, and C++"/>
+<img src="https://skillicons.dev/icons?i=cs,cpp&theme=dark" alt="C# and C++"/>
 </div>
 
 **🔥 Backend, Cloud & Database**
@@ -101,7 +101,7 @@ I also studied the following earlier in my journey. These are not my current foc
 **🧰 Tools & Environment**
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, Android Studio, and Figma"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma&theme=dark" alt="Git, GitHub, VS Code, Visual Studio, and Figma"/>
 </div>
 
 ---
@@ -159,8 +159,10 @@ I'm interested in opportunities that help me gain practical experience, work wit
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidsabdelmeseh-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="David's GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsabdelmeseh-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-<br/>
-<img src="https://streak-stats.demolab.com/?user=davidsabdelmeseh-eng&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+<br/><br/>
+<a href="https://github.com/davidsabdelmeseh-eng">
+  <img height="165" src="https://streak-stats.demolab.com/?user=davidsabdelmeseh-eng&theme=tokyonight&hide_border=true&border_radius=4.5&locale=en&mode=daily" alt="GitHub streak"/>
+</a>
 </div>
 
 ---
