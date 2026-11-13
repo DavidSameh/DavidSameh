@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/david-s-abdelmeseh-aab455446/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:davids.abdelmeseh11@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://github.com/davidsabdelmeseh-eng"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/DavidSameh"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
@@ -157,11 +157,11 @@ I'm interested in opportunities that help me gain practical experience, work wit
 ## 📊 GitHub Overview
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=davidsabdelmeseh-eng&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="David's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsabdelmeseh-eng&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DavidSameh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="David's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidSameh&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 <br/><br/>
-<a href="https://github.com/davidsabdelmeseh-eng">
-  <img height="165" src="https://streak-stats.demolab.com/?user=davidsabdelmeseh-eng&theme=tokyonight&hide_border=true&border_radius=4.5&locale=en&mode=daily" alt="GitHub streak"/>
+<a href="https://github.com/DavidSameh">
+  <img height="165" src="https://streak-stats.demolab.com/?user=DavidSameh&theme=tokyonight&hide_border=true&border_radius=4.5&locale=en&mode=daily" alt="GitHub streak"/>
 </a>
 </div>
 
